@@ -1,0 +1,5 @@
+{
+    "name": "Airflow Dev Container",
+    "image": "apache/airflow:slim-2.10.1-python3.10",
+    "forwardPorts": [8080]
+}
